@@ -1,0 +1,8 @@
+{"county_id": "AL-County-01", "timestamp": "2026-03-03T16:50:38.777111", "sentiment_z": -4.0, "volume_z": 4.0, "geo_score": 2, "crisis_score": -0.4, "confidence": "HIGH", "escalation_flag": false, "model_version": "v1.0"}
+{"county_id": "AL-County-01", "timestamp": "2026-03-03T16:52:45.617873", "sentiment_z": 4.0, "volume_z": 4.0, "geo_score": 2, "crisis_score": 3.6, "confidence": "HIGH", "escalation_flag": true, "model_version": "v1.0"}
+{"county_id": "AL-County-01", "timestamp": "2026-03-03T16:52:55.947589", "sentiment_z": 4.0, "volume_z": 4.0, "geo_score": 2, "crisis_score": 3.6, "confidence": "HIGH", "escalation_flag": true, "model_version": "v1.0"}
+{"county_id": "AL-County-01", "timestamp": "2026-03-03T16:55:33.686132", "sentiment_z": 4.0, "volume_z": 4.0, "geo_score": 2, "crisis_score": 3.6, "confidence": "HIGH", "escalation_flag": true, "model_version": "v1.0"}
+{"county_id": "AL-County-02", "timestamp": "2026-03-03T16:57:41.196513", "sentiment_z": 5.0, "volume_z": 6.0, "geo_score": 2, "crisis_score": 4.7, "confidence": "HIGH", "escalation_flag": false, "model_version": "v1.0"}
+{"county_id": "AL-County-01", "timestamp": "2026-03-03T17:04:34.430693", "sentiment_z": 4.0, "volume_z": 4.0, "geo_score": 2, "crisis_score": 3.6, "confidence": "HIGH", "escalation_flag": 2, "model_version": "v1.0"}
+{"county_id": "AL-County-02", "timestamp": "2026-03-03T17:04:44.995673", "sentiment_z": 5.0, "volume_z": 6.0, "geo_score": 2, "crisis_score": 4.7, "confidence": "HIGH", "escalation_flag": 0, "model_version": "v1.0"}
+{"county_id": "AL-County-03", "timestamp": "2026-03-03T17:04:50.774393", "sentiment_z": 4.499999999999999, "volume_z": 9.333333333333334, "geo_score": 0, "crisis_score": 5.05, "confidence": "HIGH", "escalation_flag": 0, "model_version": "v1.0"}
