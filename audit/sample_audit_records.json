@@ -1,0 +1,3 @@
+{"county_id":"AL-County-01","timestamp":"2026-03-03T17:07:55.680388","sentiment_z":4.0,"volume_z":4.0,"geo_score":2,"crisis_score":3.6,"confidence":"HIGH","escalation_level":2,"model_version":"v1.1"}
+{"county_id":"AL-County-02","timestamp":"2026-03-03T17:07:55.779451","sentiment_z":5.0,"volume_z":6.0,"geo_score":2,"crisis_score":4.7,"confidence":"HIGH","escalation_level":0,"model_version":"v1.1"}
+{"county_id":"AL-County-04","timestamp":"2026-03-03T17:07:55.882352","sentiment_z":null,"volume_z":null,"geo_score":null,"crisis_score":null,"confidence":"LOW","escalation_level":0,"model_version":"v1.1"}
